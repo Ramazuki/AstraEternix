@@ -1,4 +1,4 @@
-from stages import rocket, stages
+from src.gameobjects.stages import rocket, stages
 from typing import List
 
 
